@@ -377,7 +377,7 @@ function setupTypingAnimation() {
     if (!typingText || typingStarted) return;
     
     typingStarted = true;
-    const texts = ['Atul Tripathi', 'MTech Student', 'Data Scientist', 'AI Enthusiast'];
+    const texts = ['Atul Tripathi', 'MTech Student','Problem Solver','Data Scientist', 'AI Enthusiast'];
     let textIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
