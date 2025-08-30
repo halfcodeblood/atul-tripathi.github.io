@@ -14,10 +14,10 @@ const portfolioData = {
     department: "Computer Science & Engineering"
   },
   socialLinks: {
-    github: "https://github.com/atultripathi",
-    linkedin: "https://linkedin.com/in/atultripathi",
+    github: "https://github.com/halfcodeblood",
+    linkedin: "https://linkedin.com/in/halfcodeblood",
     twitter: "https://twitter.com/atultripathi",
-    email: "mailto:atul.tripathi@iittp.ac.in"
+    email: "mailto:cs25m251@iittp.ac.in"
   },
   skills: [
     {
